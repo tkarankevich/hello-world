@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Hello! My name is Tanya! I am investigation how it works
